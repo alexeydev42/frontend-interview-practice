@@ -1,0 +1,8 @@
+{
+  "name": "frontend-interview-practice",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
